@@ -1,3 +1,4 @@
 puts "Laura"
 puts "...wants to learn to be better at her job."
 puts "...works at Braintree."
+puts "...likes bikes and beer, but not at the same time."
